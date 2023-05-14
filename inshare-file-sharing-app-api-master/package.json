@@ -17,10 +17,7 @@
     "nodemailer": "^6.9.2",
     "uuid": "^8.3.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/CrystallyRains/inshare-fs.git"
-  },
+  "repository": "https://github.com/CrystallyRains/inshare-fs.git",
   "devDependencies": {
     "nodemon": "^2.0.4"
   }
